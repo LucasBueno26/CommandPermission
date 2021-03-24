@@ -1,0 +1,13 @@
+#Deixar os comandos em letra minusculas	
+Comandos:
+  x1:
+    Sem_Perm: "&cVoce nao tem permissao"
+    Perms:
+      - "staff.pay"
+      - "naosei.p"
+  nao:
+    Sem_Perm: "&aVoce nao tem permissao"
+    Perms:
+      - "staff.pay"
+      - "naosei.p"
+    

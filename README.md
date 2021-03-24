@@ -3,7 +3,7 @@ Configure for all commands to have a specific permission
 
 
 Config.yml
-
+![Quote]
 Comandos:
   give:
     Sem_Perm: "&cYou dont have permission"
